@@ -1,0 +1,7 @@
+{
+  "id": "example-service-id",
+  "service_account_id": "example-service-account-id",
+  "created_at": "2024-01-01T00:00:00Z",
+  "public_key": "example-public-key",
+  "private_key": "example-private-key"
+}
